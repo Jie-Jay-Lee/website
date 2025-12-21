@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - 2030) (expected) <br>
-  Advisor: Dr. Thayne Currie <br>
-  Research Areas: Exoplanet, Direct Imaging <br>
+  **Advisor:** Dr. Thayne Currie <br>
+  **Research Areas:** Exoplanet, Direct Imaging <br>
   
 * **B.S.** in Astronomy, Yunnan University, (2018 - 2022) <br>
-  Advisor: Dr. Zhongxiang Wang and Dr. Yang Huang <br>
-  Research Areas: AGN, TDE
+  **Advisor:** Dr. Zhongxiang Wang and Dr. Yang Huang <br>
+  **Research Areas:** AGN, TDE
 
 Work experience
 ======
