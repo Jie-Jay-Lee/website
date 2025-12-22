@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Texas at San Antonio (UT San Antonio). My research interests focus on the detection and characterization of exoplanets using radial velocity measurements, astrometry, and direct imaging techniques.
+I am currently a Ph.D. student at the University of Texas at San Antonio (UT San Antonio). My research interests focus on the detection and characterization of exoplanets using radial velocity, astrometry, and direct imaging. Before that, I received my B.S. in Astronomy from Yunnan University in China, where my undergraduate research focused on active galactic nuclei (AGN) and tidal disruption events (TDEs).
 
 A data-driven personal website
 ======
