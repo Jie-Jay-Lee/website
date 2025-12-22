@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jie's Homepage"
+title                    : "Welcome to Jie's Homepage"
 title_separator          : "-"
 name                     : &name "Jie Li"
 description              : &description "Jie's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
