@@ -24,7 +24,11 @@ Teaching experience
 * Fall 2025: PHY-1611-010-Fall 2025-Algebra-based Physics I Laboratory
   * The University of Texas at San Antonio
   * Supervisor: Christopher Dunn
-  
+
+* Fall 2025: PHY-1611-011-Fall 2025-Algebra-based Physics I Laboratory
+  * The University of Texas at San Antonio
+  * Supervisor: Christopher Dunn
+    
 Skills
 ======
 * Skill 1
