@@ -21,12 +21,12 @@ Education
 
 Research experience
 ======
-* Fall 2025: Algebra-based Physics I Laboratory
+* **Fall 2025:** Algebra-based Physics I Laboratory
   * The University of Texas at San Antonio
   * Graduate Teaching Assistant
   * Supervisor: Mr. Christopher Dunn
 
-* Fall 2021: Introduction to High Energy Astrophysics
+* **Fall 2021:** Introduction to High Energy Astrophysics
   * Yunnan University
   * Teaching Assistant
   * Supervisor: Dr. Zhongxiang Wang
