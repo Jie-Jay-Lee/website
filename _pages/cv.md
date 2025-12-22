@@ -23,6 +23,7 @@ Teaching experience
 ======
 * Fall 2025: Algebra-based Physics I Laboratory
   * The University of Texas at San Antonio
+  * Graduate Teaching Assistant
   * Supervisor: Christopher Dunn
     
 Skills
