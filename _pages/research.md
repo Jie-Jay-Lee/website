@@ -84,20 +84,29 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
 
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_4.png"
-       style="width:50%; max-width:800px;">
-  <br>
+       style="width:100%; max-width:800px;">
+</p>
+
+<p align="center">
   <small>
-    Figure from 
-    <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3538Z/abstract" target="_blank">
-      Zhu et al. (2023)
+    Image credit:
+    <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3538Z/abstract"
+       target="_blank" rel="noopener">
+      Zhu et al. (2025)
     </a>.
   </small>
 </p>
-    Figure 4. These changing-look AGNs exhibit a brighter-and-bluer trend during their turn-on phases, suggesting that color-based criteria can be used to systematically identify changing-look AGNs. Subsequent follow-up studies,
+
+<p align="center">
+  <small>
+    <strong>Figure 4.</strong>
+    These changing-look AGNs exhibit a brighter-and-bluer trend during their turn-on phases, suggesting that color-based criteria can be used to systematically identify changing-look AGNs. Subsequent follow-up studies,
     <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2715Z/abstract" target="_blank">
       Zhu et al. (2025)
     </a>
     demonstrate the high efficiency of this method.
+  </small>
+</p>
 
 Development of LHAASO-WFCTA Camera
 ======
