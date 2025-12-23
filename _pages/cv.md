@@ -68,7 +68,7 @@ Teaching experience
 Skills
 ======
 * **Language:** Mandarin, English
-* **Astronomical tool:** Linux, LaTeX, IRAF, HEASoft, CIAO, Fermi, CLOUDY, TOPCAT, DS9, orvara
+* **Astronomical tool:** Linux, LaTeX, IRAF, HEASoft, CIAO, Fermi, CLOUDY, TOPCAT, DS9, ORVARA
 * **Programming Language:** Python, SQL, Docker
 
 
@@ -77,3 +77,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Note
+======
+This is my full curriculum vitae. 
