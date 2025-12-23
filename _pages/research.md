@@ -46,7 +46,7 @@ We report a candidate tidal disruption event (TDE) found in the Zwicky Transient
       Li et al. (2023b)
     </small>
 </p>
-    </a>.
+    </a>
     Figure 3. Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
   
 
