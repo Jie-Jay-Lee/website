@@ -24,7 +24,7 @@ We report on the case of optical periodic modulation discovered in two Active Ga
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days. 
+    Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days, indicating a potential supermassive black hole binary. 
     Image from 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
       Li et al. (2023)
