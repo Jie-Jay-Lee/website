@@ -27,11 +27,10 @@ Research experience
   
   **Collaborator:** Dr. Yiting Li
   
-  * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
-  * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
-  * Identified a rare candidate AGN TDE based on the light curves from ZTF, ATLAS, and NEOWISE, which exhibited the emergence of coronal lines after an optical flare.
-  * Identified four changing-look AGNs. Several of them were previously classified as type 2 AGNs in SDSS spectra but exhibited bluer-when-brighter behavior in recent light curves, which is the characteristic of type 1 AGNs.
-  * Proposed a new method to identify changing-look AGNs by searching for type 2 AGNs in SDSS spectra that exhibit bluer-when-brighter behavior in recent light curves (Color-magnitude Pattern). Follow-up observations demonstrated its high efficiency.
+  * Searched for stars exhibiting significant astrometric accelerations using the Hipparcos–Gaia Catalogue of Accelerations (HGCA).
+  * Identified systems with both astrometric acceleration signals and long-term radial-velocity trends.
+  * Jointly modeled radial-velocity measurements and precision astrometry from HGCA using the orbit-fitting code orvara, constraining the dynamical masses and orbital parameters of the companions.
+  * Evaluated the detectability of these companions with current and future direct-imaging facilities, including ground-based extreme adaptive optics systems and space-based high-contrast imaging missions.
     
 * **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2025)
   
