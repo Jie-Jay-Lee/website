@@ -80,4 +80,4 @@ Publications
 
 Note
 ======
-This is my full curriculum vitae. 
+This is my full curriculum vitae (updated 12/22/2025). 
