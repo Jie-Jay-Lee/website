@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+Overall, my current and anticipated future research focuses on the field of exoplanets. My earlier research experience was primarily in AGNs and time-domain astronomy
 
 
 
