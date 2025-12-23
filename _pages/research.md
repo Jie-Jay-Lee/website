@@ -80,6 +80,5 @@ Development of LHAASO-WFCTA Camera
   <br>
   <small>
 </p>
-    Figure 3. Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
 Figure 5. Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
 
