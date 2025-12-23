@@ -55,8 +55,8 @@ Four Changing-Look Active Galactic Nuclei Found From Optical Variations
 We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). We selected these sources due to their potential as interesting targets when considering their relatively large optical flux variations and related mid-infrared flux variations. To identify their CL feature, we use archival spectra from the Sloan Digital Sky Survey (SDSS) taken at least 8 yr ago as well as spectra taken recently from the Transient Name Server (TNS) and with the 2.4-m LiJiang telescope (LJT). We study the sources' spectral changes by fitting and determining the Hα and Hβ components and verify their CL behaviour. When comparing the TNS and/or LJT spectra to the SDSS ones, all four sources showed the appearance of a broad or a stronger broad Hα component and a relatively weak broad Hβ component. As two of the four sources are established to have a brighter-and-bluer feature in the photometric data, during the time periods in which the TNS and LJT spectra were taken, this feature likely accompanied the turn-on of the broad components. Thus, we suggest that this brighter-and-bluer feature can be used as a criterion for efficiently finding CL sources among previously spectroscopically classified type 2 AGN, such as those from among the sources provided by the SDSS.
 
 <p align="center">
-  <img src="https://Jie-Jay-Lee.github.io/website/images/research_3.png"
-       style="width:100%; max-width:800px;">
+  <img src="https://Jie-Jay-Lee.github.io/website/images/research_4.png"
+       style="width:50%; max-width:800px;">
   <br>
   <small>
     Figure from 
