@@ -12,7 +12,7 @@ My name is Jie Li (pronounced “Jay Lee”; Chinese: 李杰). I am currently a 
 Please explore this site to learn more about my research and publications. Also feel free to reach out via the contact links on the left.
 
 <p align="center">
-  <img src="https://Jie-Jay-Lee.github.io/website/images/exo_1.jpg" alt="NASA image" style="width:100%; max-width:800px;">
+  <img src="https://Jie-Li-Astro.github.io/website/images/exo_1.jpg" alt="NASA image" style="width:100%; max-width:800px;">
   <br>
   <small>Image credit: NASA</small>
 </p>
