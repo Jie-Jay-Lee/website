@@ -28,7 +28,7 @@ We report on the case of optical periodic modulation discovered in two Active Ga
 
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_2.png"
-       style="width:100%; max-width:800px;">
+       style="width:50%; max-width:800px;">
   <br>
   <small>
     Figure from 
