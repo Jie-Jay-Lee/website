@@ -23,9 +23,9 @@ Research experience
 ======
 * **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs
   
-  Advisor: Zhongxiang Wang
+  **Advisor:** Zhongxiang Wang
   
-  Collaborator: Litao Zhu
+  **Collaborator:** Litao Zhu
   
   * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
   * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
