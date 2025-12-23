@@ -30,7 +30,7 @@ Research experience
   * Searched for stars exhibiting significant astrometric accelerations using the Hipparcos–Gaia Catalogue of Accelerations (HGCA).
   * Identified systems with both astrometric acceleration signals and long-term radial-velocity trends.
   * Jointly modeled radial-velocity measurements and precision astrometry from HGCA using the orbit-fitting code orvara, constraining the dynamical masses and orbital parameters of the companions.
-  * Evaluated the detectability of these companions with current and future direct-imaging facilities, including ground-based extreme adaptive optics systems and space-based high-contrast imaging missions.
+  * Evaluated the detectability of these companions with current and future direct imaging facilities, including ground-based extreme adaptive optics systems and space-based high-contrast imaging missions.
     
 * **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2025)
   
