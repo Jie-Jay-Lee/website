@@ -111,7 +111,19 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
 
 Systematic Searching for Dual AGNs
 ======
-We conducted a study on the discovery and identification of kiloparsec-scale dual active galactic nuclei (Dual AGN) systems, aiming to investigate galaxy mergers and the co-evolution of supermassive black holes and their host galaxies. To identify promising Dual AGN candidates, we searched for close galactic pairs in SDSS optical images to target systems likely in an ongoing merger stage, and further cross-matched these sources with the FIRST radio survey, selecting objects with multiple radio components to increase the probability of nuclear activity. Follow-up spectroscopic observations and emission-line analysis were then performed, through which three Dual AGN candidates were spectroscopically confirmed.
+We conducted a study on the discovery and identification of kiloparsec-scale dual active galactic nuclei (Dual AGN) systems, aiming to investigate galaxy mergers and the co-evolution of supermassive black holes and their host galaxies. To identify promising Dual AGN candidates, we searched for close galactic pairs in SDSS optical images to target systems likely in an ongoing merger stage, and further cross-matched these sources with the FIRST survey, selecting objects with multiple radio components to increase the probability of nuclear activity. Follow-up spectroscopic observations and emission-line analysis were then performed, through which three Dual AGN candidates were spectroscopically confirmed.
+
+<p align="center">
+  <img src="https://Jie-Li-Astro.github.io/website/images/research_7.png"
+       style="width:100%; max-width:800px;">
+</p>
+
+<p align="center">
+  <small>
+    <strong>Figure 5.</strong>
+    Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
+  </small>
+</p>
 
 
 Development of LHAASO-WFCTA Camera
@@ -125,7 +137,7 @@ I contributed to the development of the camera system for the Wide Field-of-view
 
 <p align="center">
   <small>
-    <strong>Figure 5.</strong>
+    <strong>Figure 6.</strong>
     Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
   </small>
 </p>
